@@ -5,7 +5,7 @@ Here we mainly consider "splitting", though simplification can involve several o
 
 We first use GPT-3 to generate high-quality simplifications (`gpt3.py`) and then fine-tune a BART model (`models.py`) based on GPT-3 outputs.
 
-We have experimented on two datasets: Manifesto and MinWiki. Original data and simplified outputs are here. 
+We have experimented on two datasets: Manifesto and MinWiki. Original data and simplified outputs can be downloaded here https://drive.google.com/file/d/1qyqmIa4--gyh4VubvfsztJTzmKPvlWXj/view?usp=share_link.. 
 
 ## Preliminary Results
 
