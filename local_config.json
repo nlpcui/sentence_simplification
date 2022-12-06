@@ -1,0 +1,16 @@
+{
+    "manifesto_gpt3_2000": "./data/aanifesto/manifesto_simplified_gpt3_2000.csv",
+    "manifesto_original": "./data/manifesto/manifesto_original.csv",
+    "manifesto_simplified_by_bart_gpt3_2000": "./data/manifesto/manifesto_full_simplified_by_bart_manifesto_gpt3_2000.csv",
+    "MinWiki_train_complex": "./data/MinWiki/matchvp_train.complex",
+    "MinWiki_train_simple": "./data/MinWiki/matchvp_train.simple",
+    "MinWiki_test_complex": "./data/MinWiki/matchvp_test.complex",
+    "MinWiki_test_simple": "./data/MinWiki/matchvp_test.simple",
+    "gpt3_simplified_manifesto_2000": "./data/MinWiki/manifesto_simplified_gpt3_2000.csv",
+    "gpt3_simplified_MinWiki_test": "./data/MiniWiki_test_GPT3_MiniWiki_prompt_simplified.csv",
+    "gpt3_simplified_Minwiki_train_3000": "./data/MiniWiki_train_3000_GPT3_MiniWiki_prompt_simplified.csv",
+    "model_bart_MinWiki_gpt3_3k": "./models/bart_base_minwiki_gpt3_3k.pt",
+    "model_bart_MinWiki_gpt3_2k": "./models/bart_base_minwiki_gpt3_2k.pt",
+    "model_bart_MinWiki_gpt3_1k": "./models/bart_base_minwiki_gpt3_1k.pt",
+    "model_bart_manifesto_gpt3_2k": "./models/bart_base_minwiki_gpt3_2k.pt"
+}
